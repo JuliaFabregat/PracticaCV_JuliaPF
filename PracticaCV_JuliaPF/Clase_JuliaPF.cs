@@ -8,6 +8,17 @@ namespace PracticaCV_JuliaPF
 {
     public class Clase_JuliaPF
     {
+        //CONSTANTES
+
+        //MIEMBROS PRIVADOS
+
+        //CONSTRUCTORES
+
+        //PROPIEDADES
+
+        //MÉTODOS PRIVADOS
+
+        //MÉTODOS PÚBLICOS
 
     }
 }
